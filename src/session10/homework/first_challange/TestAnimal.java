@@ -1,6 +1,6 @@
 //Create a TestAnimal Class with a main method, create objects with each animal class created (dog, cat, wolf) and call sound()
 
-package session10.Homework.FirstChallange;
+package session10.homework.first_challange;
 
 public class TestAnimal {
 

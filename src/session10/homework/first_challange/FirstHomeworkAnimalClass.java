@@ -4,7 +4,7 @@
 // Create a Wolf class that extends Animal, and overrides sound() method, and print “how”
 
 
-        package session10.Homework.FirstChallange;
+        package session10.homework.first_challange;
 
 public class FirstHomeworkAnimalClass {
 }

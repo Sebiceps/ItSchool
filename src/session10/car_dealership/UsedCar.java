@@ -1,4 +1,4 @@
-package session10.CarDealership;
+package session10.car_dealership;
 
 public class UsedCar extends  Car{
 

@@ -4,7 +4,7 @@
 
 //Package 1: Single Inheritance
 
-package session10.Homework.SecondChallange.Bicycle;
+package session10.homework.second_challange.Bicycle;
 
 public class Bicycles {
 }
@@ -14,7 +14,7 @@ class Bicycle {
     private int gear;
 
     void changeGear(){
-        System.out.println("Plase change the gear");
+        System.out.println("Please change the gear");
     }
     void speedUp(){
         System.out.println("You're increasing speed, slow down! ");
