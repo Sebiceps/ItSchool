@@ -1,4 +1,4 @@
-package session10.Encaptulation;
+package session10.encaptulation;
 
 public class TestEncapsulation {
 

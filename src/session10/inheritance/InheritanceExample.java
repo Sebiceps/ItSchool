@@ -1,4 +1,4 @@
-package session10.Inheritance;
+package session10.inheritance;
 
 public class InheritanceExample {
 }

@@ -1,4 +1,4 @@
-package session10.Homework.SecondChallange.Boats;
+package session10.homework.second_challange.Boats;
 
 public class Watercraft {
 }

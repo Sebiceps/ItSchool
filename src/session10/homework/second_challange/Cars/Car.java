@@ -1,4 +1,4 @@
-package session10.Homework.SecondChallange.Cars;
+package session10.homework.second_challange.Cars;
 
 public class Car {
 }

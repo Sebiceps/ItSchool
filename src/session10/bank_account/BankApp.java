@@ -1,4 +1,4 @@
-package session10.BankAccount;
+package session10.bank_account;
 
 public class BankApp {
 
