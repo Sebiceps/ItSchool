@@ -1,0 +1,1 @@
+Write a program that prompts the user to enter a day of the week and prints out a message indicating whether it is a weekday or a weekend day, using a switch statement.
