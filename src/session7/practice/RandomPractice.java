@@ -9,8 +9,8 @@ public class RandomPractice {
 
         for (int index = 1; index <= 100; index++) {
             int randomInt = random.nextInt(100) + 1;
-            //           System.out.println("Random number: " + index + ": " + randomInt);
-            // System.out.println("UUID " + index + ": " + UUID.randomUUID());
+            //System.out.println("Random number: " + index + ": " + randomInt);
+            //System.out.println("UUID " + index + ": " + UUID.randomUUID());
         }
 
         String[] fruits = {"apple", "banana", "cherry"};
